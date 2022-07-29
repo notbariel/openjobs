@@ -4,6 +4,8 @@ A [remoteok-like](https://remoteok.com/) web-based app built using Laravel Inert
 
 ![ScreenShot](/screenshots/index.png)
 
+[DEMO SITE](https://proj-openjobs.herokuapp.com/)
+
 ## Setup
 
 1. Clone this repository
